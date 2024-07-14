@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# builds 
+builds/*
+bazel-bin
+bazel-from_scratch
+bazel-out
+bazel-testlogs
